@@ -1,0 +1,9 @@
+Robot Chrome 150 0 250
+Robot Chrome 50 0 150
+Robot Chrome 250 0 150
+Antenna Glass 250 0 250
+Antenna Glass 50 0 250
+Antenna Glass 150 0 50
+Lantern Plastic 50 50 50
+Lantern Plastic 250 75 100
+Lantern Plastic 150 150 250
